@@ -34,7 +34,7 @@ paths:
   /app-api/crm-sync-import-external-crm-id/update-customer:
     post:
       tags: [Customer]
-      summary: Create or update (Upsert) a customer with addresses and contact persons
+      summary: Create or update (Upsert) a customer with addresses and contact persons. This endpoint needs to be enabled by goTom for it to work.
       requestBody:
         content:
           application/json:
