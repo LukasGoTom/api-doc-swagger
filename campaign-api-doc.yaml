@@ -263,8 +263,6 @@ paths:
             
             Campaign errors:
                * `60e2547e-bac4-4738-bcfc-6b38fa847a16` - Delete failed because campaign is already archived.
-               * `1b97b080-933c-40df-8768-e08473736005` - Campaign does not have the status 'reservation' and therefore flights cannot be deleted.
-            
             
             Flight errors:  
                * `cc8b37d1-8c9f-491e-aaf4-05510935b492` - Delete failed because flight is already invoiced.
